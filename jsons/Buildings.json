@@ -569,7 +569,7 @@
 	},
 	{
 		"name": "Manhattan Project",
-		"isWonder": true,
+		"isNationalWonder": true,
 		"requiredTech": "Atomic Theory",
 		"uniques": [
 			"Provides [1] [Uranium]",
